@@ -1,0 +1,7 @@
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\ForEach\forEach\forEach\bin\Debug\forEach.exe.config
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\ForEach\forEach\forEach\bin\Debug\forEach.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\ForEach\forEach\forEach\bin\Debug\forEach.pdb
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\ForEach\forEach\forEach\obj\Debug\forEach.csprojResolveAssemblyReference.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\ForEach\forEach\forEach\obj\Debug\forEach.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\ForEach\forEach\forEach\obj\Debug\forEach.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\ForEach\forEach\forEach\obj\Debug\forEach.pdb
