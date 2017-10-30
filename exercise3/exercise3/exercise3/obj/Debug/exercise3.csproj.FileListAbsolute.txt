@@ -1,0 +1,6 @@
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\exercisesSection5\exercise3\exercise3\exercise3\obj\Debug\exercise3.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\exercisesSection5\exercise3\exercise3\exercise3\bin\Debug\exercise3.exe.config
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\exercisesSection5\exercise3\exercise3\exercise3\bin\Debug\exercise3.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\exercisesSection5\exercise3\exercise3\exercise3\bin\Debug\exercise3.pdb
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\exercisesSection5\exercise3\exercise3\exercise3\obj\Debug\exercise3.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\exercisesSection5\exercise3\exercise3\exercise3\obj\Debug\exercise3.pdb
