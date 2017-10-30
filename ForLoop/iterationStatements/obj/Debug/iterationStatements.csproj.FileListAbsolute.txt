@@ -1,0 +1,7 @@
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\iterationStatements\iterationStatements\bin\Debug\iterationStatements.exe.config
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\iterationStatements\iterationStatements\bin\Debug\iterationStatements.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\iterationStatements\iterationStatements\bin\Debug\iterationStatements.pdb
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\iterationStatements\iterationStatements\obj\Debug\iterationStatements.csprojResolveAssemblyReference.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\iterationStatements\iterationStatements\obj\Debug\iterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\iterationStatements\iterationStatements\obj\Debug\iterationStatements.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\iterationStatements\iterationStatements\obj\Debug\iterationStatements.pdb
