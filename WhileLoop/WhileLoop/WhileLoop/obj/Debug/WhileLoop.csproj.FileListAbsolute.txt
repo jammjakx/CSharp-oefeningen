@@ -1,0 +1,7 @@
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\WhileLoop\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\WhileLoop\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\WhileLoop\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\WhileLoop\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csprojResolveAssemblyReference.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\WhileLoop\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\WhileLoop\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\iterationStatements\WhileLoop\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb
