@@ -1,0 +1,7 @@
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\Lists\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\Lists\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\Lists\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\Lists\Lists\Lists\obj\Debug\Lists.csprojResolveAssemblyReference.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\Lists\Lists\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\Lists\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\Lists\Lists\Lists\obj\Debug\Lists.pdb
