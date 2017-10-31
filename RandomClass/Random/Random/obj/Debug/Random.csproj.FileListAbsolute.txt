@@ -1,0 +1,6 @@
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\RandomClass\Random\Random\obj\Debug\Random.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\RandomClass\Random\Random\bin\Debug\Random.exe.config
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\RandomClass\Random\Random\bin\Debug\Random.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\RandomClass\Random\Random\bin\Debug\Random.pdb
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\RandomClass\Random\Random\obj\Debug\Random.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\RandomClass\Random\Random\obj\Debug\Random.pdb
