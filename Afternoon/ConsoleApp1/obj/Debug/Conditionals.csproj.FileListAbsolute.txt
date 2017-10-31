@@ -1,0 +1,6 @@
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Afternoon\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Afternoon\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Afternoon\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Afternoon\ConsoleApp1\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Afternoon\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Afternoon\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

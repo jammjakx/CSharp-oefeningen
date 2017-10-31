@@ -1,0 +1,6 @@
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Seasons\Season\Season\bin\Debug\Season.exe.config
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Seasons\Season\Season\bin\Debug\Season.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Seasons\Season\Season\bin\Debug\Season.pdb
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Seasons\Season\Season\obj\Debug\Season.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Seasons\Season\Season\obj\Debug\Season.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\ElseIf\Seasons\Season\Season\obj\Debug\Season.pdb
