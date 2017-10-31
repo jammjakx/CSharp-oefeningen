@@ -1,0 +1,6 @@
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\DateTime\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\DateTime\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\DateTime\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\DateTime\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\DateTime\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\ralph\Documents\Visual Studio 2017\Projects\course\DateTime\DateTime\DateTime\obj\Debug\DateTime.pdb
